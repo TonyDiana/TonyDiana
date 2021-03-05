@@ -1,6 +1,10 @@
-# HOLA VISITANTE 👋
+### HOLA VISITANTE 👋
 
-La mayoría de los repositorios que encuentres en este lugar son de autoría propia, sin embargo, aveces encontrarás que algunos son sencillamente ''Fork''
+La mayoría de los repositorios que encuentres en este lugar son de autoría propia, sin embargo, aveces encontrarás que algunos son sencillamente **Fork's** que estoy siguiendo momentaneamente con algún propósito.
+
+Date una vuelta por ellos si tienes unos intereses parecidos a los mios.
+
+¡¡ Un placer saludarte !!
 
 <!--
 **TonyDiana/TonyDiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
