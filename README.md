@@ -1,6 +1,6 @@
 ### HOLA VISITANTE 👋
 
-La mayoría de los repositorios que encuentres en este lugar son de autoría propia, sin embargo, aveces encontrarás que algunos son sencillamente **Fork's** que estoy siguiendo momentaneamente con algún propósito.
+La mayoría de los repositorios que encuentres en este lugar son de autoría propia, sin embargo, a veces encontrarás que algunos son sencillamente **Fork's** que estoy siguiendo momentaneamente con algún propósito.
 
 Date una vuelta por todos ellos si tienes unos intereses parecidos a los mios.
 
